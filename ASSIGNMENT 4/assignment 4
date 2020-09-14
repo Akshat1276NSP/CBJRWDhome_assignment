@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1{
+            color: brown;
+        }
+        h2{
+            color: crimson;
+        }
+        h3{
+            color:darkgreen
+        }
+    </style>
+</head>
+<body>
+    
+    <h1>Coding blocks jr Web Development</h1>
+
+    <a href="#b">LINK TO 'SECTION 2' OF ASSIGNMENT 4</a>
+    <br>
+    <br>
+    <a href="abc.htm">LINK TO ABC.HTM</a>
+    <br>
+    <br>
+    <a href="abc.htm#ef">LINK TO 'PLACE THREE' OF ABC.HTM</a>
+    <br>
+    <br>
+    <a href="./class2/xyz.htm">LINK TO 'XYZ.HTM' OF SECTION 2</a>
+    <br>
+    <br>
+    <a href="./class2/xyz.htm#tu">LINK TO 'FOOD 3' OF XYZ.HTM OF SECTION 2</a>
+    <br>
+    <br>
+    
+    <p>Below we have different sections. In each section links have been used</p>
+    
+    
+    <h2 id="a">SECTION 1</h2>
+    <p><h3>THIS SECTION CONSISTS OF LINKS THAT WILL DIRECT US TO DIFFERENT WEBSITES</h3></p>
+
+    <a href="https://www.youtube.com/">YOUTUBE</a>
+    <br>
+    <a href="https://online.codingblocks.com/">CODING BLOCKS</a>
+    <br>
+    <a href="https://www.github.com/">GITHUB</a>
+    <br>
+    <a href="https://www.google.com/">GOOGLE</a>
+    <br>
+    <a href="https://www.cartoonnetworkindia.com/">CARTOON NETWORK INDIA</a>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+    <h1 id="b">SECTION 2</h1>
+    <p>THIS SECTION CONSISTS OF LINKS THROUGH WHICH WE CAN DIRECTLY CALL VARIOUS ORGANIZATIONS</p>
+    <a href="tel:18001801104">Medical Helpline Number</a>
+    <br>
+    <a href="tel:18008899999">JIO customer care helpline number</a>
+    <br>
+    <a href="tel:18002744504">Coding Blocks helpline number</a>
+    <br>
+    <a href="tel:91112397804">COVID-19 helpline number</a>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <h1 id="c">SECTION 3</h1>
+    <p>CONSISTS OF LINKS THROUGH WHICH WE CAN DIRECTLY SEND E-MAILS TO VARIOUS ORGANIZATIONS</p>
+    <a href="mailto:abc@gmail.com">CODING BLOCKS EMAIL HELPLINE</a>
+    <br>
+    <a href="mailto:jkl@gmail.com">SBI HELPLINE EMAIL</a>
+    <br>
+    <a href="mailto:ghi@gmail.com">VIDYAMANDIR HELPLINE EMAIL</a>
+    <br>
+    <a href="mailto:def@gmail.com">COVID-19 HELPLINE E-MAIL</a>
+    <br>
+    <br>
+    <br>
+    <br>
+
+
+    <h1 id="d">SECTION 4</h1>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae, doloremque. Provident iste accusamus doloremque quaerat laudantium dolorum rem, dolores, voluptates nulla, consequatur fugit asperiores quam dolor libero voluptatibus tenetur ipsa.</p>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <h1 id="e">SECTION 4</h1>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae, doloremque. Provident iste accusamus doloremque quaerat laudantium dolorum rem, dolores, voluptates nulla, consequatur fugit asperiores quam dolor libero voluptatibus tenetur ipsa.</p>
+    <br>
+    <br>
+    <br>
+    <br>
+
+</body>
+</html>
