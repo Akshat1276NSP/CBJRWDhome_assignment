@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    border: 20px groove grey;
+    background-color: antiquewhite;
+}
+
+.two{
+    color: green;
+    background-color: gainsboro;
+}
+
+.three{
+    color: red;
+    background-color: greenyellow;
+}
+
+.one{
+    color: violet;
+}
+
+.four{
+    font-size: 20px;
+    color: red;
+}
+
+.threee input:in-range{
+    background-color: yellowgreen;
+
+}
+
+.threee input:out-of-range{
+    background-color: skyblue;
+}
+
+input:in-range +label::after{
+    content: 'correct guess';
+}
+
+input:in-range +label::before{
+    content: 'yey!';
+}
+
+input:out-of-range + label::after{
+    content: 'wrong guess....you will be punished';
+}
+
+input:out-of-range + label::before{
+    content: 'sssshhhhh..';
+}
