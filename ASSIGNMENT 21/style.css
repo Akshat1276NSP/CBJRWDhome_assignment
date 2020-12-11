@@ -1,0 +1,17 @@
+body{
+    background-color: coral;
+}
+
+h1{
+    font-size: 45px;
+    color: purple;
+    font-style: italic;
+    padding-left: 20px;
+}
+
+.one{
+    font-size: 32px;
+    font-style: italic;
+    padding-left: 20px;
+    color: yellow;
+}
